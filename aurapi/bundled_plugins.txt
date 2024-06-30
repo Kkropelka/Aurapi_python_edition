@@ -1,0 +1,216 @@
+DevKit|Plugin Development
+
+Docker|Deployment
+
+HtmlTools|HTML and XML
+
+JSIntentionPowerPack|JavaScript Frameworks and Tools
+
+JUnit|Test Tools
+
+JavaScriptDebugger|JavaScript Frameworks and Tools
+
+JavaScript|JavaScript Frameworks and Tools
+
+Lombook Plugin|JVM Frameworks
+
+NodeJS|JavaScript Frameworks and Tools
+
+androidx.compose.plugins.idea|null
+
+com.intellij.aop|JVM Frameworks
+
+com.intellij.cidr.base|null
+
+com.intellij.cidr.completion.ml.ranking|null
+
+com.intellij.cidr.grazie|null
+
+com.intellij.cidr.lang|Languages
+
+com.intellij.cidr.markdown|null
+
+com.intellij.cidr.strings|null
+
+com.intellij.configurationScript|null
+
+com.intellij.css|Style Sheets
+
+com.intellij.database|Database
+
+com.intellij.gradle|Build Tools
+
+com.intellij.java-i18n|Other Tools
+
+com.intellij.javaee.el|JVM Frameworks
+
+com.intellij.javaee.jpa|JVM Frameworks
+
+com.intellij.javaee.web|JVM Frameworks
+
+com.intellij.javaee|JVM Frameworks
+
+com.intellij.java|Languages
+
+com.intellij.jpa.jpb.model|JVM Frameworks
+
+com.intellij.microservices.jvm|JVM Frameworks
+
+com.intellij.nativeDebug|null
+
+com.intellij.persistence|JVM Frameworks
+
+com.intellij.platform.images|null
+
+com.intellij.properties|Languages
+
+com.intellij.python.django|null
+
+com.intellij.react|JavaScript Frameworks and Tools
+
+com.intellij.spring.batch|JVM Frameworks
+
+com.intellij.spring.boot.initializr|JVM Frameworks
+
+com.intellij.spring.boot|JVM Frameworks
+
+com.intellij.spring.data|JVM Frameworks
+
+com.intellij.spring.integration|JVM Frameworks
+
+com.intellij.spring.messaging|JVM Frameworks
+
+com.intellij.spring.mvc|JVM Frameworks
+
+com.intellij.spring.security|JVM Frameworks
+
+com.intellij.spring.websocket|JVM Frameworks
+
+com.intellij.spring.ws|JVM Frameworks
+
+com.intellij.spring|JVM Frameworks
+
+com.intellij.stylelint|JavaScript Frameworks and Tools
+
+com.intellij.tailwindcss|Style Sheets
+
+com.intellij|null
+
+com.jetbrains.jax.ws|JVM Frameworks
+
+com.jetbrains.php|Languages
+
+com.jetbrains.sh|Languages
+
+dev.blachut.svelte.lang|JavaScript Frameworks and Tools
+
+editorconfig|Languages
+
+fleet.backend.amper|Build Tools
+
+fleet.backend.codeVisionCore|null
+
+fleet.backend.docker|Languages
+
+fleet.backend.go|Languages
+
+fleet.backend.gradle|Build Tools
+
+fleet.backend.groovy|Languages
+
+fleet.backend.javaee.el|Frameworks
+
+fleet.backend.javaee.platform|Frameworks
+
+fleet.backend.javaee.web|Frameworks
+
+fleet.backend.javascript|Languages
+
+fleet.backend.java|Languages
+
+fleet.backend.kotlin|Languages
+
+fleet.backend.maven|Build Tools
+
+fleet.backend.mercury.core|Languages
+
+fleet.backend.mercury.depEnabler|null
+
+fleet.backend.mercury|Languages
+
+fleet.backend.nodejs|JavaScript Frameworks and Tools
+
+fleet.backend.php|Languages
+
+fleet.backend.python|Languages
+
+fleet.backend.runDestination|Custom
+
+fleet.backend.shell|Languages
+
+fleet.backend.spring.boot|Frameworks
+
+fleet.backend.spring.mvc|Frameworks
+
+fleet.backend.spring|Frameworks
+
+intellij.charts|null
+
+intellij.grid.core.impl|null
+
+intellij.grid.impl|null
+
+intellij.indexing.shared.core|null
+
+intellij.prettierJS|JavaScript Frameworks and Tools
+
+intellij.vitejs|JavaScript Frameworks and Tools
+
+intellij.webpack|JavaScript Frameworks and Tools
+
+intellij.webp|null
+
+org.editorconfig.editorconfigjetbrains|Other Tools
+
+org.intellij.groovy|Languages
+
+org.intellij.intelliLang|Other Tools
+
+org.intellij.plugins.markdown|Languages
+
+org.intellij.plugins.postcss|Style Sheets
+
+org.jetbrains.amper|Build Tools
+
+org.jetbrains.android|Android
+
+org.jetbrains.compose.desktop.ide|null
+
+org.jetbrains.idea.gradle.dsl|null
+
+org.jetbrains.idea.maven.model|null
+
+org.jetbrains.idea.maven.server.api|null
+
+org.jetbrains.idea.maven|Build Tools
+
+org.jetbrains.idea.reposearch|null
+
+org.jetbrains.java.decompiler|Other Tools
+
+org.jetbrains.kotlin|Languages
+
+org.jetbrains.plugins.go|Languages
+
+org.jetbrains.plugins.gradle|null
+
+org.jetbrains.plugins.less|Style Sheets
+
+org.jetbrains.plugins.sass|Style Sheets
+
+org.jetbrains.plugins.vue|JavaScript Frameworks and Tools
+
+org.jetbrains.plugins.yaml|Languages
+
+org.toml.lang|Languages
+

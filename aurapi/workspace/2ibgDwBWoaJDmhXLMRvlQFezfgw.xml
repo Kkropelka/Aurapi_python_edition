@@ -1,0 +1,29 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Aurapi" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 1,
+      "lastUsed": 1719764582346
+    }
+  }
+}]]></component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="1" lastUsage="1719764582350" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+</project>

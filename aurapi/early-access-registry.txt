@@ -1,0 +1,6 @@
+forced.switch.to.new.ui
+false
+ide.experimental.ui
+true
+moved.to.new.ui
+true
